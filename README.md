@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- TARIK & LEPASKAN FILE logo_panda.png ANDA DI BARIS BAWAH INI -->
-<img width="500" height="500" alt="logo_panda" src="https://github.com/user-attachments/assets/4c449a55-a40a-4333-aea1-52d55405c497" />
 <img src="app/src/main/res/drawable/logo_panda.png" alt="Logo BambuQR PandaKode" width="130" />
 
 # 🐼 BambuQR Studio — Smart QR & Barcode Maker
