@@ -19,6 +19,12 @@
 
 ## 📸 Tampilan Aplikasi (App Screenshots)
 
+<img width="1080" height="2400" alt="Screenshot_20261018_153445" src="https://github.com/user-attachments/assets/e3a4825b-4f6e-4975-8f28-164956954c07" />
+<img width="1080" height="2400" alt="Screenshot_20261018_153921" src="https://github.com/user-attachments/assets/4c4151ff-12d7-4ba4-9084-6a8acec28801" />
+<img width="1080" height="2400" alt="Screenshot_20261018_153937" src="https://github.com/user-attachments/assets/a0007f85-6f54-4d6b-a11f-ca0964a3c445" />
+<img width="1080" height="2400" alt="Screenshot_20261018_153951" src="https://github.com/user-attachments/assets/9e993947-ce1c-4ede-9a6b-f634d946b3e8" />
+
+
 > *Tampilan antarmuka cerah, bersih, dan modern dengan tema khas PandaKode (Hijau Bambu, Putih, Hitam Panda, dan Aksen Gold).*
 
 | Buat QR & Studio Desain | 9 Kategori Lengkap | Scan & Bongkar Wi-Fi | Alat Pintar (Barcode & Batch) |
